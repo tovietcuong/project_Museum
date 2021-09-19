@@ -1,25 +1,30 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
-
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+// import { Component } from 'react';
+import React,{ Component} from 'react';
+import Customers from './component/Customers';
+import {  Switch, Router, Route } from 'react-router-dom';
+class App extends Component{
+  render(){
+    console.log("Host URL"+process.env.PUBLIC_URL);
+    return(
+      <Router basename = {process.env.PUBLIC_URL}>
+        {/* <div className ="App">
+          <header className = "App-header">
+            
+          </header>
+        </div> */}
+        <Switch>
+          <Route exact path = "/" render = {() =>(
+            // <Redirect to="/customerlist"/>
+            <div>adnanlks</div>
+          )}/>
+          <Route exact path ='/customerlist' component ={Customers}/>
+        </Switch>
+      </Router>
+    );
+  }
 }
+// import { Form } from 'reactstrap';
 
 export default App;
