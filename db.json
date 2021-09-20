@@ -1,83 +1,83 @@
 {
-  "products": [
-    {
-      "images":"/images/all/boc-dan-thong-minh-may-keo-va-xe-tai.jpg",
-      "name": "BÓC DÁN THÔNG MINH - MÁY KÉO VÀ XE TẢI",
-      "price_1": "43,200₫",
-      "price_2" : "60,000đ",
-      "des": "Trong quá trình học ngôn ngữ, bên cạnh ngữ pháp thì từ vựng đóng vai trò quan trọng. Chúng ta đều biết, từ vựng là vốn từ, kho từ của ngôn ngữ đó. Hầu hết, khi bạn trang bị cho mình được khối lượng từ vựng đủ lớn thì quá trình giao tiếp sẽ trở nên đơn giản hơn rất nhiều. Vậy nên, mỗi người học cần tạo cho mình một thói quen học tập từ vựng mỗi ngày và cố gắng ghi nhớ bằng cách học phù hợp với bản thân.",
-      "id": 1
-    },
-    {
-      "images":"/images/all/boc-dan-thong-minh-mua-he.jpg",
-      "name": "BÓC DÁN THÔNG MINH - MÙA HÈ",
-      "price_1": "43,200₫",
-      "price_2" : "60,000đ",
-      "des": "Trong quá trình học ngôn ngữ, bên cạnh ngữ pháp thì từ vựng đóng vai trò quan trọng. Chúng ta đều biết, từ vựng là vốn từ, kho từ của ngôn ngữ đó. Hầu hết, khi bạn trang bị cho mình được khối lượng từ vựng đủ lớn thì quá trình giao tiếp sẽ trở nên đơn giản hơn rất nhiều. Vậy nên, mỗi người học cần tạo cho mình một thói quen học tập từ vựng mỗi ngày và cố gắng ghi nhớ bằng cách học phù hợp với bản thân.",
-      "id": 2
-      
-    },
-    {
-      "images":"/images/all/boc-dan-thong-minh-rung-ram.jpg",
-      "name": "BÓC DÁN THÔNG MINH - RỪNG RẬM",
-      "price_1": "43,200₫",
-      "price_2" : "60,000đ",
-      "des": "Trong quá trình học ngôn ngữ, bên cạnh ngữ pháp thì từ vựng đóng vai trò quan trọng. Chúng ta đều biết, từ vựng là vốn từ, kho từ của ngôn ngữ đó. Hầu hết, khi bạn trang bị cho mình được khối lượng từ vựng đủ lớn thì quá trình giao tiếp sẽ trở nên đơn giản hơn rất nhiều. Vậy nên, mỗi người học cần tạo cho mình một thói quen học tập từ vựng mỗi ngày và cố gắng ghi nhớ bằng cách học phù hợp với bản thân.",
-      "id": 3
-      
-    },
-    {
-      "images":"/images/all/listen E.jpg",
-      "name": "HACKERS TOEIC START LISTENING",
-      "price_1": "399,00đ",
-      "price_2" : "460,000đ",
-      "des": "Trong quá trình học ngôn ngữ, bên cạnh ngữ pháp thì từ vựng đóng vai trò quan trọng. Chúng ta đều biết, từ vựng là vốn từ, kho từ của ngôn ngữ đó. Hầu hết, khi bạn trang bị cho mình được khối lượng từ vựng đủ lớn thì quá trình giao tiếp sẽ trở nên đơn giản hơn rất nhiều. Vậy nên, mỗi người học cần tạo cho mình một thói quen học tập từ vựng mỗi ngày và cố gắng ghi nhớ bằng cách học phù hợp với bản thân.",
-      "id": 4
-      
-    },
-    {
-      "images":"/images/all/ngữ pháp tiếng anh vui nhộn.jpg",
-      "name": "HỌC NGỮ PHÁP TIẾNG ANH VUI NHỘN QUA HÌNH - QUYỂN 2",
-      "price_1": "59.00đ",
-      "price_2" : "80,000đ",
-      "des": "Trong quá trình học ngôn ngữ, bên cạnh ngữ pháp thì từ vựng đóng vai trò quan trọng. Chúng ta đều biết, từ vựng là vốn từ, kho từ của ngôn ngữ đó. Hầu hết, khi bạn trang bị cho mình được khối lượng từ vựng đủ lớn thì quá trình giao tiếp sẽ trở nên đơn giản hơn rất nhiều. Vậy nên, mỗi người học cần tạo cho mình một thói quen học tập từ vựng mỗi ngày và cố gắng ghi nhớ bằng cách học phù hợp với bản thân.",
-      "id": 5
-      
-    },
-    {
-      "images":"/images/all/sơ cấp quyển 2.jpg",
-      "name": "SƠ CẤP QUYỂN 2 - GT HÁN NGỮ BOYA - PHIÊN BẢN THỨ 2 (KÈM APP)",
-      "price_1": "149,00đ",
-      "price_2" : "160,000đ",
-      "des": "Trong quá trình học ngôn ngữ, bên cạnh ngữ pháp thì từ vựng đóng vai trò quan trọng. Chúng ta đều biết, từ vựng là vốn từ, kho từ của ngôn ngữ đó. Hầu hết, khi bạn trang bị cho mình được khối lượng từ vựng đủ lớn thì quá trình giao tiếp sẽ trở nên đơn giản hơn rất nhiều. Vậy nên, mỗi người học cần tạo cho mình một thói quen học tập từ vựng mỗi ngày và cố gắng ghi nhớ bằng cách học phù hợp với bản thân.",
-      "id": 6
-      
-    },
-    {
-      "images":"/images/all/vitamin tiếng hàn.jpg",
-      "name": "VITAMIN TIẾNG HÀN - TẬP 1",
-      "price_1": "290,00đ",
-      "price_2" : "360,000đ",
-      "des": "Trong quá trình học ngôn ngữ, bên cạnh ngữ pháp thì từ vựng đóng vai trò quan trọng. Chúng ta đều biết, từ vựng là vốn từ, kho từ của ngôn ngữ đó. Hầu hết, khi bạn trang bị cho mình được khối lượng từ vựng đủ lớn thì quá trình giao tiếp sẽ trở nên đơn giản hơn rất nhiều. Vậy nên, mỗi người học cần tạo cho mình một thói quen học tập từ vựng mỗi ngày và cố gắng ghi nhớ bằng cách học phù hợp với bản thân.",
-      "id": 7
-      
-    },
-    {
-      "images":"/images/all/để nói tiếng anh thành công.jpg",
-      "name": "NÓI SAO ĐỂ THÀNH CÔNG: TRAU DỒI TIẾNG ANH TRONG KINH DOANH",
-      "price_1": "80,00đ",
-      "price_2" : "90,000đ",
-      "des": "Trong quá trình học ngôn ngữ, bên cạnh ngữ pháp thì từ vựng đóng vai trò quan trọng. Chúng ta đều biết, từ vựng là vốn từ, kho từ của ngôn ngữ đó. Hầu hết, khi bạn trang bị cho mình được khối lượng từ vựng đủ lớn thì quá trình giao tiếp sẽ trở nên đơn giản hơn rất nhiều. Vậy nên, mỗi người học cần tạo cho mình một thói quen học tập từ vựng mỗi ngày và cố gắng ghi nhớ bằng cách học phù hợp với bản thân.",
-      "id": 8
-      
-    },
-    {
-      "images":"/images/all/500 từ vựng.jpg",
-      "name": "5000 TỪ VỰNG TIẾNG HÀN THÔNG DỤNG (TÁI BẢN 2020)",
-      "price_1": "118,150₫",
-      "price_2" : "160,000đ",
-      "des": "Trong quá trình học ngôn ngữ, bên cạnh ngữ pháp thì từ vựng đóng vai trò quan trọng. Chúng ta đều biết, từ vựng là vốn từ, kho từ của ngôn ngữ đó. Hầu hết, khi bạn trang bị cho mình được khối lượng từ vựng đủ lớn thì quá trình giao tiếp sẽ trở nên đơn giản hơn rất nhiều. Vậy nên, mỗi người học cần tạo cho mình một thói quen học tập từ vựng mỗi ngày và cố gắng ghi nhớ bằng cách học phù hợp với bản thân.",
-      "id": 9
-    }
-  ]
-}
+    "sections": [
+      {
+        "images":"/images/all/boc-dan-thong-minh-may-keo-va-xe-tai.jpg",
+        "name": "BÓC DÁN THÔNG MINH - MÁY KÉO VÀ XE TẢI",
+        "price_1": "43,200₫",
+        "price_2" : "60,000đ",
+        "des": "Trong quá trình học ngôn ngữ, bên cạnh ngữ pháp thì từ vựng đóng vai trò quan trọng. Chúng ta đều biết, từ vựng là vốn từ, kho từ của ngôn ngữ đó. Hầu hết, khi bạn trang bị cho mình được khối lượng từ vựng đủ lớn thì quá trình giao tiếp sẽ trở nên đơn giản hơn rất nhiều. Vậy nên, mỗi người học cần tạo cho mình một thói quen học tập từ vựng mỗi ngày và cố gắng ghi nhớ bằng cách học phù hợp với bản thân.",
+        "id": 1
+      },
+      {
+        "images":"/images/all/boc-dan-thong-minh-mua-he.jpg",
+        "name": "BÓC DÁN THÔNG MINH - MÙA HÈ",
+        "price_1": "43,200₫",
+        "price_2" : "60,000đ",
+        "des": "Trong quá trình học ngôn ngữ, bên cạnh ngữ pháp thì từ vựng đóng vai trò quan trọng. Chúng ta đều biết, từ vựng là vốn từ, kho từ của ngôn ngữ đó. Hầu hết, khi bạn trang bị cho mình được khối lượng từ vựng đủ lớn thì quá trình giao tiếp sẽ trở nên đơn giản hơn rất nhiều. Vậy nên, mỗi người học cần tạo cho mình một thói quen học tập từ vựng mỗi ngày và cố gắng ghi nhớ bằng cách học phù hợp với bản thân.",
+        "id": 2
+        
+      },
+      {
+        "images":"/images/all/boc-dan-thong-minh-rung-ram.jpg",
+        "name": "BÓC DÁN THÔNG MINH - RỪNG RẬM",
+        "price_1": "43,200₫",
+        "price_2" : "60,000đ",
+        "des": "Trong quá trình học ngôn ngữ, bên cạnh ngữ pháp thì từ vựng đóng vai trò quan trọng. Chúng ta đều biết, từ vựng là vốn từ, kho từ của ngôn ngữ đó. Hầu hết, khi bạn trang bị cho mình được khối lượng từ vựng đủ lớn thì quá trình giao tiếp sẽ trở nên đơn giản hơn rất nhiều. Vậy nên, mỗi người học cần tạo cho mình một thói quen học tập từ vựng mỗi ngày và cố gắng ghi nhớ bằng cách học phù hợp với bản thân.",
+        "id": 3
+        
+      },
+      {
+        "images":"/images/all/listen E.jpg",
+        "name": "HACKERS TOEIC START LISTENING",
+        "price_1": "399,00đ",
+        "price_2" : "460,000đ",
+        "des": "Trong quá trình học ngôn ngữ, bên cạnh ngữ pháp thì từ vựng đóng vai trò quan trọng. Chúng ta đều biết, từ vựng là vốn từ, kho từ của ngôn ngữ đó. Hầu hết, khi bạn trang bị cho mình được khối lượng từ vựng đủ lớn thì quá trình giao tiếp sẽ trở nên đơn giản hơn rất nhiều. Vậy nên, mỗi người học cần tạo cho mình một thói quen học tập từ vựng mỗi ngày và cố gắng ghi nhớ bằng cách học phù hợp với bản thân.",
+        "id": 4
+        
+      },
+      {
+        "images":"/images/all/ngữ pháp tiếng anh vui nhộn.jpg",
+        "name": "HỌC NGỮ PHÁP TIẾNG ANH VUI NHỘN QUA HÌNH - QUYỂN 2",
+        "price_1": "59.00đ",
+        "price_2" : "80,000đ",
+        "des": "Trong quá trình học ngôn ngữ, bên cạnh ngữ pháp thì từ vựng đóng vai trò quan trọng. Chúng ta đều biết, từ vựng là vốn từ, kho từ của ngôn ngữ đó. Hầu hết, khi bạn trang bị cho mình được khối lượng từ vựng đủ lớn thì quá trình giao tiếp sẽ trở nên đơn giản hơn rất nhiều. Vậy nên, mỗi người học cần tạo cho mình một thói quen học tập từ vựng mỗi ngày và cố gắng ghi nhớ bằng cách học phù hợp với bản thân.",
+        "id": 5
+        
+      },
+      {
+        "images":"/images/all/sơ cấp quyển 2.jpg",
+        "name": "SƠ CẤP QUYỂN 2 - GT HÁN NGỮ BOYA - PHIÊN BẢN THỨ 2 (KÈM APP)",
+        "price_1": "149,00đ",
+        "price_2" : "160,000đ",
+        "des": "Trong quá trình học ngôn ngữ, bên cạnh ngữ pháp thì từ vựng đóng vai trò quan trọng. Chúng ta đều biết, từ vựng là vốn từ, kho từ của ngôn ngữ đó. Hầu hết, khi bạn trang bị cho mình được khối lượng từ vựng đủ lớn thì quá trình giao tiếp sẽ trở nên đơn giản hơn rất nhiều. Vậy nên, mỗi người học cần tạo cho mình một thói quen học tập từ vựng mỗi ngày và cố gắng ghi nhớ bằng cách học phù hợp với bản thân.",
+        "id": 6
+        
+      },
+      {
+        "images":"/images/all/vitamin tiếng hàn.jpg",
+        "name": "VITAMIN TIẾNG HÀN - TẬP 1",
+        "price_1": "290,00đ",
+        "price_2" : "360,000đ",
+        "des": "Trong quá trình học ngôn ngữ, bên cạnh ngữ pháp thì từ vựng đóng vai trò quan trọng. Chúng ta đều biết, từ vựng là vốn từ, kho từ của ngôn ngữ đó. Hầu hết, khi bạn trang bị cho mình được khối lượng từ vựng đủ lớn thì quá trình giao tiếp sẽ trở nên đơn giản hơn rất nhiều. Vậy nên, mỗi người học cần tạo cho mình một thói quen học tập từ vựng mỗi ngày và cố gắng ghi nhớ bằng cách học phù hợp với bản thân.",
+        "id": 7
+        
+      },
+      {
+        "images":"/images/all/để nói tiếng anh thành công.jpg",
+        "name": "NÓI SAO ĐỂ THÀNH CÔNG: TRAU DỒI TIẾNG ANH TRONG KINH DOANH",
+        "price_1": "80,00đ",
+        "price_2" : "90,000đ",
+        "des": "Trong quá trình học ngôn ngữ, bên cạnh ngữ pháp thì từ vựng đóng vai trò quan trọng. Chúng ta đều biết, từ vựng là vốn từ, kho từ của ngôn ngữ đó. Hầu hết, khi bạn trang bị cho mình được khối lượng từ vựng đủ lớn thì quá trình giao tiếp sẽ trở nên đơn giản hơn rất nhiều. Vậy nên, mỗi người học cần tạo cho mình một thói quen học tập từ vựng mỗi ngày và cố gắng ghi nhớ bằng cách học phù hợp với bản thân.",
+        "id": 8
+        
+      },
+      {
+        "images":"/images/all/500 từ vựng.jpg",
+        "name": "5000 TỪ VỰNG TIẾNG HÀN THÔNG DỤNG (TÁI BẢN 2020)",
+        "price_1": "118,150₫",
+        "price_2" : "160,000đ",
+        "des": "Trong quá trình học ngôn ngữ, bên cạnh ngữ pháp thì từ vựng đóng vai trò quan trọng. Chúng ta đều biết, từ vựng là vốn từ, kho từ của ngôn ngữ đó. Hầu hết, khi bạn trang bị cho mình được khối lượng từ vựng đủ lớn thì quá trình giao tiếp sẽ trở nên đơn giản hơn rất nhiều. Vậy nên, mỗi người học cần tạo cho mình một thói quen học tập từ vựng mỗi ngày và cố gắng ghi nhớ bằng cách học phù hợp với bản thân.",
+        "id": 9
+      }
+    ]
+  }
